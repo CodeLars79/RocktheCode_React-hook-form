@@ -28,6 +28,18 @@ This is a simple user registration form built with **React** and **react-hook-fo
    - Minimum 6 characters
    - At least one letter and one number
 
----
 
-## 📁 Project Structure
+## 🔧 Dependencies
+- react
+- react-dom
+- react-hook-form
+
+Install react-hook-form if not already:
+npm install react-hook-form
+
+
+## 📬 License
+This project is open source and free to use. Customize it as you wish!
+
+## 💡 Author
+Made with 💙 by Lars Sorensen
