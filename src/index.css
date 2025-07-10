@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+
+:root {
+  --rtc-primary-font: 'Space Grotesk', serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: var(--rtc-primary-font);
+  letter-spacing: 2px;
+  scroll-behavior: smooth;
+  font-variant-numeric: normal;
+}
